@@ -1,0 +1,14 @@
+openai
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+phidata
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+sentence-transformers
